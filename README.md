@@ -5,6 +5,7 @@ GET TOKEN :
 ------
 - `Bot Alphat : https://github.com/oscwib/wibjs`
 -  token generator http://101.255.95.249:6969/
+
 Cara Install Bot :
 ------
 Di C9 :
