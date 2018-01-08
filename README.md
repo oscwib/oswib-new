@@ -4,7 +4,7 @@ BOT PROTECT CREATOR & ADMIN & 5 BOT + 1 GHOST.
 GET TOKEN :
 ------
 - `Bot Alphat : https://github.com/oscwib/wibjs`
--
+-  token generator http://101.255.95.249:6969/
 Cara Install Bot :
 ------
 Di C9 :
@@ -18,7 +18,7 @@ Di C9 :
 - Ketik -> `sudo pip install bs4`
 - Ketik -> `sudo pip install gtts`
 - Ketik -> `sudo pip install googletrans`
-- Ketik -> `git clone https://github.com/oscwib/wibfix`
+- Ketik -> `git clone https://github.com/oscwib/oswib-new`
 
 Di Termux :
 - Ketik -> `pkg update`
@@ -30,9 +30,7 @@ Di Termux :
 - Ketik -> `pip2 install bs4`
 - Ketik -> `pip2 install gtts`
 - Ketik -> `pip2 install googletrans`
-- Ketik -> `git clone https://github.com/oscwib/wibfix`
+- Ketik -> `git clone https://github.com/oscwib/oswib-new`
 
-Thx To :
-------
-- `LINE-TCR TEAM`
+
 
