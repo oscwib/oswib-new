@@ -1,5 +1,5 @@
 
-BOT PROTECT CREATOR & ADMIN & 5 BOT + 1 GHOST.
+BOT PROTECT
 ------
 GET TOKEN :
 ------
