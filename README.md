@@ -1,2 +1,0 @@
-# oswib-new
-Bot protect
